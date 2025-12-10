@@ -1,12 +1,13 @@
 /* === src/App.css === */
 /* === src/App.css === */
+/* === src/App.css === */
 .App {
     min-height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
-    /* Blue background with overlay for readability */
-    background-color: #0d47a1; /* fallback color */
+    /* Red background with overlay for readability */
+    background-color: #b71c1c; /* fallback color */
     background-image: var(--app-bg-overlay), var(--app-bg-image);
     background-size: cover, cover;
     background-position: center, center;
